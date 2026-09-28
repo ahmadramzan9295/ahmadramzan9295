@@ -146,16 +146,7 @@ AI Engineer with hands-on professional experience developing production-grade **
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadramzan9295&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadramzan9295&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadramzan9295&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
 
 ---
 
